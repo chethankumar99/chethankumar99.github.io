@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Adir El Protfolio</h1>
+<h1>Chethan Kumar  Protfolio</h1>
 
 <strong>One Page Website/Portfolio Template for Minimal Protfolio.</strong>
 
